@@ -89,7 +89,7 @@
 
 <header>
     <h1>Welcome to KK AWS</h1>
-    <h3>DevOps classes from 6:45 to 8:45 (Telugu)</h3>
+    <h3>DevOps classes from 6:45 to 8:45 ONLINE CLASSES</h3>
 </header>
 
 <main>
