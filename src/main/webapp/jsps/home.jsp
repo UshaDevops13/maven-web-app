@@ -125,7 +125,7 @@
 </main>
 
 <footer>
-    <p>KK FUNDA Training & Development Center</p>
+    <p>KK FUNDA Training & Development Center in Online</p>
     <small>&copy; 2024 <a href="https://www.google.com" style="color: #ccc;">KK FUNDA</a></small>
 </footer>
 
